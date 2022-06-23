@@ -1,0 +1,17 @@
+.shop-container{
+    display: flex;
+    width: 100%
+
+}
+
+.courses-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-left: 12%;
+    margin-right: 1%;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    width: 20%;
+}

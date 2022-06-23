@@ -1,0 +1,10 @@
+
+.cartAddedImg{
+    width: 100%;
+
+}
+.cartAddedImg img{
+    width: 21%;
+    margin: 1px 4px;
+    border: 2px solid red;
+}

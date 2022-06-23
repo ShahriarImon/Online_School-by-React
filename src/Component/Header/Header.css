@@ -1,0 +1,9 @@
+.logo{
+    height: 100px;
+    background-color: rgb(191, 234, 231);
+    text-align: center;
+}
+.logo img{
+    width: 23%;
+    /* max-height: 100%; */
+}

@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "name": "Ielts",
+        "img": "https://cloudacademyjo.com/web1/pluginfile.php/1618/course/overviewfiles/ielts.png",
+        "price": 15
+    },
+    {
+        "id": "2",
+        "name": "Spoken English",
+        "img": "https://aclid.es/wp-content/uploads/2020/09/tec.jpg",
+        "price": 11
+    },
+    {
+        "id": "3",
+        "name": "Learn SQL",
+        "img": "https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png",
+        "price": 20
+    },
+    {
+        "id": "4",
+        "name": "Learn Laravel",
+        "img": "https://gb.codesource.io/wp-content/uploads/2019/12/laravel.png",
+        "price": 20
+    },
+    {
+        "id": "5",
+        "name": "Learn Machine Learning",
+        "img": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/images/mercury/mlatgt_logo.png",
+        "price": 25
+    },
+    {
+        "id": "6",
+        "name": "Learn SASS",
+        "img": "https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png",
+        "price": 10
+    },
+    {
+        "id": "7",
+        "name": "Learn NODE Js",
+        "img": "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.0000000000/img/co_img_843_1559019556.png",
+        "price": 30
+    },
+    {
+        "id": "8",
+        "name": "Learn C++",
+        "img": "https://image.shutterstock.com/z/stock-vector-logo-c-programming-language-icon-vector-illustration-on-topic-of-popular-high-level-coding-695290117.jpg",
+        "price": 15
+    },
+    {
+        "id": "9",
+        "name": "Learn REACT",
+        "img": "https://patterns.dev/img/reactjs/react-logo@3x.svg",
+        "price": 30
+    },
+    {
+        "id": "10",
+        "name": "Learn JavaScript",
+        "img": "https://w7.pngwing.com/pngs/98/274/png-transparent-javascript-ajax-web-browser-programming-language-computer-programming-world-wide-web-angle-text-logo.png",
+        "price": 30
+    },
+    {
+        "id": "11",
+        "name": "Learn JAVA",
+        "img": "https://image.shutterstock.com/image-vector/monochrome-logo-java-programming-language-6w-469389965.jpg",
+        "price": 30
+    },
+    {
+        "id": "12",
+        "name": "Learn PHP",
+        "img": "https://e7.pngegg.com/pngimages/838/327/png-clipart-website-development-programming-language-computer-programming-logo-php-program-logo-blue-text.png",
+        "price": 30
+    },
+    {
+        "id": "13",
+        "name": "Learn Python",
+        "img": "https://www.pngall.com/wp-content/uploads/5/Python-PNG-Clipart.png",
+        "price": 30
+    }
+]
